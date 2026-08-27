@@ -1,2 +1,5 @@
 Cloud Concepts & Cloud Infrastructre:
 
+Tasks:You are architecting a multi-tier app. Map each tier (web, app, DB, CDN) to the correct AWS global construct (Region, AZ, Edge) and explain your HA reasoning.
+
+
